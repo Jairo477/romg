@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="ccss/normalize.css">
+    <link rel="stylesheet" href="ccss/skeleton.css">
+    <link rel="stylesheet" href="ccss/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Open+Sans:ital,wght@0,400;0,600;0,663;1,400;1,800&display=swap" rel="stylesheet">
+    <title>ROMGTUBE</title>
+</head>
+</body>
+    <header>
+        <div class="contenedor">
+            <h2 class="logotipo">∞ MENU DE CHAT →</h2>
+            <nav>
+                <a href="">Global</a>
+            </nav>
+        </div>   
+    </header>
 
-You can use the [editor on GitHub](https://github.com/Jairo477/romg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <main>
+        <div class="red-social">
+            <div class="contenedor">
+                <h3 class="titulo"> Lindo paisaje
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+                </h3>
+                <p class="descripcion">
+                       observa uno de estos hermosos paisajes                   
+                </p>
+                <button role="button" class="boton"><i class="fa-solid fa-play"></i>Ver video</button>
+                <button role="button" class="boton"><i class="fa-solid fa-square-info"></i>Informe</button>
+              </div>
+            </div>
+        </div>
+    </main>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jairo477/romg/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    <script  src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+    <script  src="main.js"></script>
+</body>
+</html>  
